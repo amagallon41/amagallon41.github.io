@@ -1,3 +1,7 @@
 body{
     background: rgb(121, 165, 158);
 }
+
+img {
+    width: 50%;
+}
